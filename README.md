@@ -1,4 +1,4 @@
-#<h1>*E Sprint 0 Tutorial Task</h1> <br/>
+<h1>SE Sprint 0 Tutorial Task</h1> <br/>
 
 *This Repository Contains a project board and github issues.*
 <br/>
